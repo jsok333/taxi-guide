@@ -147,12 +147,15 @@
 ![image](https://user-images.githubusercontent.com/487999/79683604-47bc0180-8266-11ea-9212-7e88c9bf9911.png)
 
 
-
 ### 완성된 1차 모형
 
 ![image](https://user-images.githubusercontent.com/487999/79683646-63bfa300-8266-11ea-9bc5-c0b650507ac8.png)
 
     - View Model 추가
+
+***** 제외 검토 필요
+
+
 
 ### 최종 완성본에 대한 기능적 요구사항을 커버하는지 검증
 

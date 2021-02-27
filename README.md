@@ -47,10 +47,10 @@
 1. 트랜잭션
     1) 할당요청 되지 않으면 호출요청을 할 수 없다.  Sync 호출 
 2. 장애격리
-    1) 택시 할당요청은 택시 할당확인 기능이 동작하지 않더라도, 365일 24시간 받을 수 있어야 한다 Async (event-driven), Eventual  Consistency
+    1) 택시 할당요청은 할당확인 기능이 동작하지 않더라도, 365일 24시간 받을 수 있어야 한다 Async (event-driven), Eventual  Consistency
     2) 할당요청이 과중되면 택시 호출요청을 잠시동안 받지 않고 잠시후에 하도록 유도한다 Circuit breaker, fallback
 3. 성능
-    1. 고객은 호출 및 할당여부를 카톡 등으로 확인 할 수 있어야 한다.  Event driven, CQRS
+    1. 고객은 호출상태를 조회하고 할당/할당취소 여부를 카톡으로 확인 할 수 있어야 한다. CQRS, Event driven
 
 
 # 체크포인트

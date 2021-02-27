@@ -128,17 +128,21 @@
 ###  버전이력
 
 * 초기버전
+
 ![image](senario/version1.png "설계버전1")
 
-* 중간버전 
+* 중간버전
+
 ![image](senario/version2.png "설계버전2")
 
 * 최종버전
+
 ![DDD 화면 캡처 2021-02-27 222844](https://user-images.githubusercontent.com/61448505/109389810-6a707980-7951-11eb-9dbf-9d7989b2bb69.png)
 
 
 
 ***** 제외 검토 필요
+
 ### 이벤트 도출
 ![image](https://user-images.githubusercontent.com/487999/79683604-47bc0180-8266-11ea-9212-7e88c9bf9911.png)
 

@@ -117,7 +117,7 @@
   ![image](https://user-images.githubusercontent.com/487999/79684144-2a893200-826a-11ea-9a01-79927d3a0107.png)
 
 ## TO-BE 조직 (Vertically-Aligned)
-  ![image](https://user-images.githubusercontent.com/487999/79684159-3543c700-826a-11ea-8d5f-a3fc0c4cad87.png)
+  ![조직 2021-02-27 230903](https://user-images.githubusercontent.com/61448505/109389728-f209b880-7950-11eb-8f5e-5f727c4ace6c.png)
 
 
 ## Event Storming 결과
@@ -132,10 +132,15 @@
 ![image](senario/version1.png "설계버전1")
 
 * 중간버전
+* 
+![image](senario/version2.png "설계버전2")
+
+* 최종버전
 
 ![image](senario/version2.png "설계버전2")
 
 
+***** 제외 검토 필요
 ### 이벤트 도출
 ![image](https://user-images.githubusercontent.com/487999/79683604-47bc0180-8266-11ea-9212-7e88c9bf9911.png)
 

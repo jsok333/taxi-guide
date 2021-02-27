@@ -1,5 +1,6 @@
 ![image](screenshots/kakao_taxi_logo.jpg "카카오 택시 따라잡기")
 
+![화면 캡처 2021-02-27 221258](https://user-images.githubusercontent.com/61448505/109388198-08137b00-7949-11eb-9b2c-14f38067f5fb.png)
 
 # 택시가이드(taxiguider)
 
